@@ -1,4 +1,4 @@
-# Website-Screenshot-Capture-Python
+# Website-Screenshot-Capture-Remotely-Python
 Take screenshot of any website even without opening browser using Python.
 A simple yet fast Python Programme to take Screenshot of Webpages.
 <h2>How it Works?</h2>
