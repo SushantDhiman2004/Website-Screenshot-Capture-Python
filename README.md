@@ -7,6 +7,5 @@ This programme work on the concept of running browsers headlessly using selenium
 <h2>Complete Tutorial:-</h2>
 The complete tutorial, line by line explanation of the programme can be found <b><a href="#">Here</a></b>
 <br>
-Join me on Instagram:- <a target="_blank" href="https://www.instagram.com/sushantdhiman2004/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<h1> Let's became Friends:- </h1><br>
+<a href="https://instagram.com/sushantdhiman2004">Follow on Instagram </a>
