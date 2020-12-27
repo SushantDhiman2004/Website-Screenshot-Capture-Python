@@ -7,5 +7,5 @@ This programme work on the concept of running browsers headlessly using selenium
 <h2>Complete Tutorial:-</h2>
 The complete tutorial, line by line explanation of the programme can be found <b><a href="#">Here</a></b>
 <br>
-<h1> Let's became Friends:- </h1>
-<a href="https://instagram.com/sushantdhiman2004">Follow on Instagram </a>
+<h1> Wanna Read More About Me? </h1>
+<a href="https://sushantdhiman.net">Follow on Instagram </a>
