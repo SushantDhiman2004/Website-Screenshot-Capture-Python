@@ -8,4 +8,4 @@ This programme work on the concept of running browsers headlessly using selenium
 The complete tutorial, line by line explanation of the programme can be found <b><a href="#">Here</a></b>
 <br>
 <h1> Wanna Read More About Me? </h1>
-<a href="https://sushantdhiman.net">Follow on Instagram </a>
+<a href="https://sushantdhiman.net">Visit Here </a>
